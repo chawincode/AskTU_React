@@ -5,11 +5,6 @@ function Home() {
     return (
         <div className="column">
             <SideBar />
-            <div>
-                <a className="Home">
-                    Home
-                </a>
-            </div>
         </div>
     )
 }
